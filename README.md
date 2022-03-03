@@ -5,7 +5,7 @@
  * 으뜸 머신러닝 (강영민, 박성수, 김성수), 생능출판사, 2021.
  * [[교재관련 저장소]](http://github.com/dknife/ML)
 <p align="center">
-  [[<img src="https://github.com/dknife/ML/raw/main/image/PrimeML_cover.png" width=150px>]](http://github.com/dknife/ML)
+  <img src="https://github.com/dknife/ML/raw/main/image/PrimeML_cover.png" width=150px aref=http://github.com/dknife/ML>
 </p>
 
 # 책의 소스코드(colab 주소, .py 파일, ipynb 파일)
