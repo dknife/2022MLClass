@@ -2,9 +2,10 @@
 
 ## 교재 
 
- * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
+ * 으뜸 머신러닝 (강영민, 박성수, 김성수), 생능출판사, 2021.
+ * [[교재관련 저장소]](http://github.com/dknife/ML)
 <p align="center">
-  <img src="https://github.com/dknife/ML/raw/main/image/PrimeML_cover.png" width=350px>
+  <img src="https://github.com/dknife/ML/raw/main/image/PrimeML_cover.png" width=150px>
 </p>
 
 # 책의 소스코드(colab 주소, .py 파일, ipynb 파일)
@@ -27,11 +28,7 @@
 * 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 생능출판사 (2021)
   * [[YES24]](http://www.yes24.com/Product/Goods/105422959), [[인터파크]](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.saNo=001&sc.prdNo=354325192&saNo=008002001&bid1=NMB_PRD&bid2=bSelect&bid3=book_together&product2020=true), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788970505220) 
   * 으뜸 데이터 분석과 머신러닝 github 저장소 : https://github.com/dongupak/DataML
-<p align="center">
-  <img src="image/20BFF5E5-1B47-490E-99A4-6A76440B6F2C.png" width=200px>
-  <img src="image/BB56B4F0-484E-4B5E-8649-EA827AF9271B.jpeg" width=200px>
-  <img src="image/Prime-DataML-cover1.png" width=400px>
-</p>
+
 
 # 강의 노트
 
