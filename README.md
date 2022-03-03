@@ -4,7 +4,7 @@
 
  * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
 <p align="center">
-  <img src="https://github.com/dknife/ML/image/PrimeML_cover.png" width=350px>
+  <img src="https://github.com/dknife/ML/raw/main/image/PrimeML_cover.png" width=350px>
 </p>
 
 # 책의 소스코드(colab 주소, .py 파일, ipynb 파일)
