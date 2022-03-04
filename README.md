@@ -19,4 +19,4 @@
 
 [1. 머신러닝 소개](https://github.com/dknife/2022MLClass/raw/main/LectureNotes/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
 
-[2. 머신러닝을 위한 기초 지식](https://github.com/dknife/2022MLClass/upload/main/LectureNotes)
+[2. 머신러닝을 위한 기초 지식](https://github.com/dknife/2022MLClass/raw/main/LectureNotes/02%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D.pdf)
