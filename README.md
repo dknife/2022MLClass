@@ -38,3 +38,5 @@
 
 [1-3 넘파이 성능 평가](https://colab.research.google.com/drive/1H-YFc6T3Gab1O7OOVejbp64FXPAnPNXA)
 
+[1-4 넘파이 배열의 논리 인덱싱](https://colab.research.google.com/drive/1xX73D2n2bZKrmzT7IETCoYftKBVG0qNw)
+
