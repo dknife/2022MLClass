@@ -32,7 +32,8 @@
 # 실습
 
 ## 실습 1: 넘파이
-[리스트와 넘파이 비교](https://colab.research.google.com/drive/1osPVHCj9bb2ccd65ltwDf6cVXdMMcBsG)
+[1-1 리스트와 넘파이 비교](https://colab.research.google.com/drive/1osPVHCj9bb2ccd65ltwDf6cVXdMMcBsG)
+
 
 
 
