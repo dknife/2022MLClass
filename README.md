@@ -34,6 +34,7 @@
 ## 실습 1: 넘파이
 [1-1 리스트와 넘파이 비교](https://colab.research.google.com/drive/1osPVHCj9bb2ccd65ltwDf6cVXdMMcBsG)
 
+[1-2 다양한 넘파이 배열](https://colab.research.google.com/drive/17-D42pmBcLQd__xF3CuGKaXc_n0q9d1Z#scrollTo=3tXuwXVspM61)
 
 
 
