@@ -28,3 +28,11 @@
 
 ## 과제 1
 구글 드라이브에 자신의 사진을 올리고, 구글 코랩에서 이를 읽고 화면에 출력해 보자. 사진 아래에 자신의 이름을 같이 출력한다. 과제는 이 실행 결과를 캡쳐해서 프린트한 뒤 제출하는 것이다.
+
+# 실습
+
+## 실습 1: 넘파이
+(https://colab.research.google.com/drive/1osPVHCj9bb2ccd65ltwDf6cVXdMMcBsG)
+
+
+
