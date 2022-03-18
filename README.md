@@ -36,5 +36,5 @@
 
 [1-2 다양한 넘파이 배열](https://colab.research.google.com/drive/17-D42pmBcLQd__xF3CuGKaXc_n0q9d1Z#scrollTo=3tXuwXVspM61)
 
-
+[1-3 넘파이 성능 평가](https://colab.research.google.com/drive/1H-YFc6T3Gab1O7OOVejbp64FXPAnPNXA)
 
