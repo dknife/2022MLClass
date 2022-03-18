@@ -40,3 +40,6 @@
 
 [1-4 넘파이 배열의 논리 인덱싱](https://colab.research.google.com/drive/1xX73D2n2bZKrmzT7IETCoYftKBVG0qNw)
 
+## 실습 2: 판다스
+[2-1 판다스 데이터프레임](https://colab.research.google.com/drive/1R3pCGiRkFr2mI2cjOlLNozXIcOxB4wOB)
+
