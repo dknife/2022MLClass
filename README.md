@@ -46,4 +46,4 @@
 [2-1 판다스 데이터프레임](https://colab.research.google.com/drive/1R3pCGiRkFr2mI2cjOlLNozXIcOxB4wOB)
 
 ## 도전과제: 행렬곱하기 고소확
-[CH01](https://colab.research.google.com/drive/18ktXiU7qcIm2gqazen3Ijbzey0JkUGJO#scrollTo=YD33R6fCpSRx)
+[CH01 임의의 크기를 가진 행렬 생성과 행렬 곱하기 연산 ](https://colab.research.google.com/drive/18ktXiU7qcIm2gqazen3Ijbzey0JkUGJO#scrollTo=YD33R6fCpSRx)
