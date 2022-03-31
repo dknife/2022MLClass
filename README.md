@@ -23,6 +23,8 @@
 
 [3. 구현을 위한 도구](https://github.com/dknife/2022MLClass/raw/main/LectureNotes/03%EC%9E%A5_%EA%B5%AC%ED%98%84%EC%9D%84%EC%9C%84%ED%95%9C%20%EB%8F%84%EA%B5%AC.pdf)
 
+[4. 선형회귀로 이해하는 지도학습]()
+
 
 # 과제
 
