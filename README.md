@@ -45,7 +45,7 @@
 ## 실습 2: 판다스
 [2-1 판다스 데이터프레임](https://colab.research.google.com/drive/1R3pCGiRkFr2mI2cjOlLNozXIcOxB4wOB)
 
-[2-2 판다스 데이터프레임 데이터 접근]()
+[2-2 판다스 데이터프레임 데이터 접근](https://colab.research.google.com/drive/1txwI0hoBlKGij5CVaMvZFgKOP2Xqo50I#scrollTo=cjEhMSyBsrr_)
 
 ## 도전과제: 행렬곱하기 고소확
 [CH01 임의의 크기를 가진 행렬 생성과 행렬 곱하기 연산 ](https://colab.research.google.com/drive/18ktXiU7qcIm2gqazen3Ijbzey0JkUGJO#scrollTo=YD33R6fCpSRx)
