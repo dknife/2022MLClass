@@ -49,7 +49,7 @@
 
 [2-3 판다스를 이용한 데이터 분석](https://colab.research.google.com/drive/1Notdchiw_gpJwx3-HcNmNvJFILHr_DDK)
 
-[2-4 판단스를 이용한 다양한 테이블 조작](https://colab.research.google.com/drive/1k_9RwRj-Si1YNPMMRZJYYSXPh6Riyz-D)
+[2-4 판스를 이용한 다양한 테이블 조작](https://colab.research.google.com/drive/1k_9RwRj-Si1YNPMMRZJYYSXPh6Riyz-D)
 
 ## 도전과제: 행렬곱하기 고소확
 [CH01 임의의 크기를 가진 행렬 생성과 행렬 곱하기 연산 ](https://colab.research.google.com/drive/18ktXiU7qcIm2gqazen3Ijbzey0JkUGJO#scrollTo=YD33R6fCpSRx)
