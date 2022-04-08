@@ -60,3 +60,5 @@
 ## 실습 3: 선형 회귀
 
 [3-1 데이터 확인하기](https://colab.research.google.com/drive/1-ltCBzBHSpxKWZMMP_hQ8L-S3TgmFDF0#scrollTo=3G4xMIdaxROP)
+
+[3-2 오차 계산하기](https://colab.research.google.com/drive/1rVQY97_VNqGZuBVh3yoxZklXNebgkd8t#scrollTo=Pz7yGV0eCMf6)
