@@ -56,3 +56,7 @@
 
 ## 도전과제: 행렬곱하기 고속화
 [CH01 임의의 크기를 가진 행렬 생성과 행렬 곱하기 연산 ](https://colab.research.google.com/drive/18ktXiU7qcIm2gqazen3Ijbzey0JkUGJO#scrollTo=YD33R6fCpSRx)
+
+## 실습 3: 선형 회귀
+
+[3-1 데이터 확인하기](https://colab.research.google.com/drive/1-ltCBzBHSpxKWZMMP_hQ8L-S3TgmFDF0#scrollTo=3G4xMIdaxROP)
