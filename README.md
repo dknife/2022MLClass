@@ -68,3 +68,5 @@
 ## 실습 4: Sklearn을 활용한 선형회귀
 
 [4-1 sklearn 사용하기](https://colab.research.google.com/drive/1ckmrkOMYVR2Ph32-qc6E4hnHg-dnbngS)
+
+[4-2 다변량 분석](https://colab.research.google.com/drive/14Thltyq2kiRyMhvYYTQcuZGbi7YkkyAD#scrollTo=oFiDQnEUBZCk)
