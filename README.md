@@ -64,3 +64,7 @@
 [3-2 오차 계산하기](https://colab.research.google.com/drive/1rVQY97_VNqGZuBVh3yoxZklXNebgkd8t#scrollTo=Pz7yGV0eCMf6)
 
 [3-3 경사 하강법으로 선형 회귀 구현하기](https://colab.research.google.com/drive/1aDhP6FLmiiNKhBw9g0T5PRiibY79NMIV#scrollTo=TlKGlXeRGPxh)
+
+## 실습 4: Sklearn을 활용한 선형회귀
+
+[4-1 sklearn 사용하기](https://colab.research.google.com/drive/1ckmrkOMYVR2Ph32-qc6E4hnHg-dnbngS)
