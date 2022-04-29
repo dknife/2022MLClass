@@ -72,3 +72,7 @@
 [4-1 sklearn 사용하기](https://colab.research.google.com/drive/1ckmrkOMYVR2Ph32-qc6E4hnHg-dnbngS)
 
 [4-2 다변량 분석](https://colab.research.google.com/drive/14Thltyq2kiRyMhvYYTQcuZGbi7YkkyAD#scrollTo=oFiDQnEUBZCk)
+
+## 실습 5:  k-NN 분류기
+
+[5-1 k-NN 분류기로 닥스훈트와 사모예드 분류하기](https://colab.research.google.com/drive/17SsKvw6JE4nIXlAcGUwy8edolqs4UtLn)
