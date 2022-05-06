@@ -84,3 +84,5 @@
 ## 실습 6: 다항회귀
 
 [6-1 다항회귀로 기대수명 예측하기 ](https://colab.research.google.com/drive/1w1Y2F9SY8zCTFF5RuakrmzlbEQacIWeD#scrollTo=CBxmAyyD3qvF)
+
+[6-2 비선형 데이터에 대한 회귀](https://colab.research.google.com/drive/166aOi6XUifRVMpzOwBmLnhpw4NBt25ns#scrollTo=VFBTrS9HLaGz)
