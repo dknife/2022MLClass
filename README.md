@@ -79,3 +79,8 @@
 [5-1 k-NN 분류기로 닥스훈트와 사모예드 분류하기](https://colab.research.google.com/drive/17SsKvw6JE4nIXlAcGUwy8edolqs4UtLn)
 
 [5-2 k-NN 분류기로 붓꽃 분류하기](https://colab.research.google.com/drive/1D9Rczmr4HeUfFjJPcRs_jMdLJxU1gWrL)
+
+
+## 실습 6: 다항회귀
+
+[6-1 다항회귀로 기대수명 예측하기 ](https://colab.research.google.com/drive/1w1Y2F9SY8zCTFF5RuakrmzlbEQacIWeD#scrollTo=CBxmAyyD3qvF)
