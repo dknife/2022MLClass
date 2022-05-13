@@ -93,4 +93,4 @@
 
 ## 실습 7: 서포트 벡터 머신
 
-[7-1 서포트 벡터 머신 사용하기]()
+[7-1 서포트 벡터 머신 사용하기](https://colab.research.google.com/drive/1TazVa9UWrNloFw6PQIIoH0ydhQHUl1-Q#scrollTo=qY8XnLLOJOch)
