@@ -102,3 +102,5 @@
 ## 실습 8: 퍼셉트론 기본
 
 [8-1 퍼셉트론 구조로 AND 게이트 만들기](https://colab.research.google.com/drive/1oUmx21-Va07WFeFBcFEtLP-5JURznyM7?usp=sharing)
+
+[8-2 플라스틱 퍼셉트론](https://colab.research.google.com/drive/1ZQEtpJ96hoHjKIjEvJBxMPRy4f2UvNCx?usp=sharing)
