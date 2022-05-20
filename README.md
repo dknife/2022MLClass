@@ -98,3 +98,7 @@
 [7-1 서포트 벡터 머신 사용하기](https://colab.research.google.com/drive/1TazVa9UWrNloFw6PQIIoH0ydhQHUl1-Q#scrollTo=qY8XnLLOJOch)
 
 [7-2 비선형 서포트 벡터 머신 필요성](https://colab.research.google.com/drive/1ViYrdCrVUzwFkZkb7ayT8M5BzPyvCivh)
+
+## 실습 8: 퍼셉트론 기본
+
+[8-1 퍼셉트론 구조로 AND 게이트 만들기]()
