@@ -31,6 +31,7 @@
 [6. 다양한 머신러닝 기법들 - 다항회귀, 결정트리, SVM](https://github.com/dknife/2022MLClass/raw/main/LectureNotes/06%EC%9E%A5_%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B2%95%EB%93%A4%20-%20%EB%8B%A4%ED%95%AD%20%ED%9A%8C%EA%B7%80%2C%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%2C%20SVM.pdf)
 
 [7. 인공 신경망 기초 - 문제와 돌파구](https://github.com/dknife/2022MLClass/raw/main/LectureNotes/07%EC%9E%A5_%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B8%B0%EC%B4%88%20-%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%EB%8F%8C%ED%8C%8C%EA%B5%AC.pdf)
+
 # 과제
 
 ## 과제 1
@@ -42,6 +43,9 @@
 ## 과제 3
 5장 다음에 나타나는 잡음제거 프로젝트 (미니프로젝트 A1)을 실행하고 실행 결과를 출력하여 제출한다.
 
+## 과제 4
+7장 심화문제 1번의 내용을 참고하여, XOR를 수행할 수 있는 다층 퍼셉트론을 구현해 보라.
+$x$
 
 # 실습
 
