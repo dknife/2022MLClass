@@ -45,7 +45,7 @@
 
 ## 과제 4
 7장 심화문제 1번의 내용을 참고하여, XOR를 수행할 수 있는 다층 퍼셉트론을 구현해 보라.
-$x_1 oplus x_2 = ( x_1 \vee x_2 ) \wedge \not ( x_1 \wedge x_2 )$
+$x_1 (xor) x_2 = ( x_1 \vee x_2 ) \wedge  - ( x_1 \wedge x_2 )$
 
 # 실습
 
