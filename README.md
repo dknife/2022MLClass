@@ -110,3 +110,8 @@ $x_1 (xor) x_2 = ( x_1 \vee x_2 ) \wedge  - ( x_1 \wedge x_2 )$
 [8-1 퍼셉트론 구조로 AND 게이트 만들기](https://colab.research.google.com/drive/1oUmx21-Va07WFeFBcFEtLP-5JURznyM7?usp=sharing)
 
 [8-2 플라스틱 퍼셉트론](https://colab.research.google.com/drive/1ZQEtpJ96hoHjKIjEvJBxMPRy4f2UvNCx?usp=sharing)
+
+## 실습 9: XOR를 해결하는 퍼셉트론
+
+[9-1 다항변환을 이용한 XOR 해결](https://colab.research.google.com/drive/1oUmx21-Va07WFeFBcFEtLP-5JURznyM7?usp=sharing)
+
