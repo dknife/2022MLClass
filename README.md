@@ -113,5 +113,5 @@ $x_1 (xor) x_2 = ( x_1 \vee x_2 ) \wedge  - ( x_1 \wedge x_2 )$
 
 ## 실습 9: XOR를 해결하는 퍼셉트론
 
-[9-1 다항변환을 이용한 XOR 해결](https://colab.research.google.com/drive/1oUmx21-Va07WFeFBcFEtLP-5JURznyM7?usp=sharing)
+[9-1 다항변환을 이용한 XOR 해결]()
 
