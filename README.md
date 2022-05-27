@@ -115,3 +115,4 @@ $x_1 (xor) x_2 = ( x_1 \vee x_2 ) \wedge  - ( x_1 \wedge x_2 )$
 
 [9-1 다항변환을 이용한 XOR 해결](https://colab.research.google.com/drive/1Esi7BIPiDkXfZ3e9JaAQdiDLW5cUqUZa?usp=sharing)
 
+[9-2 다층 퍼셉트론을 학습시켜 비선형 회귀 구현](https://colab.research.google.com/drive/1aAwqkqCPyTdzLuHe8PGZpLWXXiERvA4D?usp=sharing)
