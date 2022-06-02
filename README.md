@@ -32,7 +32,7 @@
 
 [7. 인공 신경망 기초 - 문제와 돌파구](https://github.com/dknife/2022MLClass/raw/main/LectureNotes/07%EC%9E%A5_%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B8%B0%EC%B4%88%20-%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%EB%8F%8C%ED%8C%8C%EA%B5%AC.pdf)
 
-[8. 고급 인공 신경망 구현](https://github.com/dknife/2022MLClass/blob/main/LectureNotes/08%EC%9E%A5_%EA%B3%A0%EA%B8%89%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B5%AC%ED%98%84.pdf)
+[8. 고급 인공 신경망 구현](https://github.com/dknife/2022MLClass/raw/main/LectureNotes/08%EC%9E%A5_%EA%B3%A0%EA%B8%89%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B5%AC%ED%98%84.pdf)
 
 # 과제
 
