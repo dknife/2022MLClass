@@ -122,4 +122,4 @@ $x_1 (xor) x_2 = ( x_1 \vee x_2 ) \wedge  - ( x_1 \wedge x_2 )$
 ## 실습 10: 텐서플로우의 사용
 [10-1 텐서플로우를 이용한 비선형 회귀 구현](https://colab.research.google.com/drive/1tIsZXQDy2D3eqSe1ccMyOFXHVsrOekdL?usp=sharing)
 
-[10-2 텐서플로우를 이용한 MNIST]()
+[10-2 텐서플로우를 이용한 MNIST](https://colab.research.google.com/drive/12uc4yUyLrp_7Ek6HF_WTDvGNmWVZYLUE?usp=sharing)
