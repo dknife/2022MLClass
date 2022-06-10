@@ -132,5 +132,7 @@ $x_1 (xor) x_2 = ( x_1 \vee x_2 ) \wedge  - ( x_1 \wedge x_2 )$
 ## 실습 11: 합성곱 신경망
 [11-1 합성곱 적용](https://colab.research.google.com/drive/1ahlFDcM4H060LjXjcDTEoaMg76taZh3h)
 
+[11-2 합성곱 신경망 구현](https://colab.research.google.com/drive/1JYFCB1-_2iBhZrazFR1rX2jWaaezG11t?usp=sharing)
+
 # Final Exam
 [파킨스씨병 관련 데이터 읽기](https://colab.research.google.com/drive/1PncdkGkJq-mQmNezhnCQgab3NtltgF2k#scrollTo=zdgeI4R54Yzh)
