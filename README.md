@@ -130,4 +130,4 @@ $x_1 (xor) x_2 = ( x_1 \vee x_2 ) \wedge  - ( x_1 \wedge x_2 )$
 [10-2 텐서플로우를 이용한 MNIST](https://colab.research.google.com/drive/12uc4yUyLrp_7Ek6HF_WTDvGNmWVZYLUE?usp=sharing)
 
 # Final Exam
-[데이터 읽기]()
+[파킨스씨병 관련 데이터 읽기](https://colab.research.google.com/drive/1PncdkGkJq-mQmNezhnCQgab3NtltgF2k#scrollTo=zdgeI4R54Yzh)
